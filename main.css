@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+}
+.tasbeeh {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.tasbeeh h2 {
+    margin-top: 0;
+}
+.count {
+    font-size: 24px;
+    font-weight: bold;
+}
+.plus {
+    font-size: 36px;
+    cursor: pointer;
+}
